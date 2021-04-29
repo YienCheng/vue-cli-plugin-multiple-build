@@ -1,0 +1,41 @@
+{
+  "name": "vue-cli-plugin-multiple-build",
+  "version": "1.0.0",
+  "description": "vue-cli plugin to build multiple page",
+  "main": "index.js",
+  "private": false,
+  "directories": {
+    "lib": "lib"
+  },
+  "dependencies": {
+    "chalk": "^4.1.1",
+    "glob": "^7.1.6"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YienCheng/vue-cli-plugin-multiple-build.git"
+  },
+  "keywords": [
+    "vue-cli-plugin-multiple-build",
+    "vue-cli@3",
+    "vue",
+    "vue-cli-plugin",
+    "multiple-page"
+  ],
+  "author": "YienCheng",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YienCheng/vue-cli-plugin-multiple-build/issues",
+    "email": "cye_orange@163.com"
+  },
+  "files": [
+    "generator",
+    "lib",
+    "getEntries.js",
+    "prompts.js",
+    "index.js",
+    "LICENSE"
+  ],
+  "homepage": "https://github.com/YienCheng/vue-cli-plugin-multiple-build#readme"
+}
