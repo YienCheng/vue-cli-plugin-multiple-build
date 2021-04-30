@@ -1,10 +1,7 @@
-const { getServiceRegister } = require("./lib/utils");
-const build = require("./lib/commands/build");
+const { overwriteCommand } = require("./lib/utils");
 
 module.exports = (api, options = {}) => {
-  // service register
-  const serviceRegister = getServiceRegister(api, options);
+  overwriteCommand(api, options, "build");
 
-  // register build
-  serviceRegister(build);
+  overwriteCommand(api, options, "serve");
 };
