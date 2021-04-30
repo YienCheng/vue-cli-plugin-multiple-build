@@ -131,3 +131,7 @@ vue-cli-service build --page xxx
 
 此插件实际还是通过`vue.config.js`配置`pages`参数的方式来实现的，还是使用的vue-cli@3提供的编译和运行，只是提供了一个获取page入口的helper函数数`getEntries`，和给`vue-cli-server build` `vue-cli-server serve`新增了一个`--page`参数，安装此插件基本对现有项目没有什么影响。
 
+## License
+
+[MIT](https://github.com/YienCheng/vue-cli-plugin-multiple-build/blob/master/LICENSE)
+
