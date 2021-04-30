@@ -1,6 +1,6 @@
 {
   "name": "vue-cli-plugin-multiple-build",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "description": "vue-cli plugin to build multiple page",
   "main": "index.js",
   "private": false,
