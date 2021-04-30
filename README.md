@@ -1,14 +1,15 @@
 # Vue Cli Plugin Multiple Build
 
 <a href="https://www.npmjs.com/package/vue-cli-plugin-multiple-build">
-  <img alt="downloads" src="https://img.shields.io/npm/dw/vue-cli-plugin-multiple-build">
-</a>
-<a href="https://www.npmjs.com/package/vue-cli-plugin-multiple-build">
-  <img alt="version" src="https://img.shields.io/npm/v/vue-cli-plugin-multiple-build">
+  <img alt="downloads" src="https://img.shields.io/npm/dw/vue-cli-plugin-multiple-build.svg?sanitize=true">
 </a>
 
 <a href="https://www.npmjs.com/package/vue-cli-plugin-multiple-build">
-  <img alt="license" src="https://img.shields.io/npm/l/vue-cli-plugin-multiple-build">
+  <img alt="version" src="https://img.shields.io/npm/v/vue-cli-plugin-multiple-build.svg?sanitize=true">
+</a>
+
+<a href="https://www.npmjs.com/package/vue-cli-plugin-multiple-build">
+  <img alt="license" src="https://img.shields.io/npm/l/vue-cli-plugin-multiple-build?sanitize=true">
 </a>
 
 
