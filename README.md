@@ -12,12 +12,11 @@
   <img alt="license" src="https://img.shields.io/npm/l/vue-cli-plugin-multiple-build?sanitize=true">
 </a>
 
-
 🌞 基于 vue-cli@3 的多页面打包插件，支持打包和运行指定的页面，无侵入的更改了 vue-cli 原有的 build 和 serve 命令。
 
 如果您在使用过程中如果有什么问题或者需求可以通过[点击此处](https://github.com/YienCheng/vue-cli-plugin-multiple-build/issues)来提一个ISSUE。
 
-如果觉的这个插件还可以，欢迎各位大佬能给个Star，感谢～
+如果觉的这个插件还可以，欢迎各位大佬能给个Star [![Github](https://img.shields.io/github/stars/YienCheng/vue-cli-plugin-multiple-build.svg?style=social&label=Stars)](https://github.com/YienCheng/vue-cli-plugin-multiple-build)，感谢～ 
 
 ## Getting Started
 
