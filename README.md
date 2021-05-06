@@ -16,7 +16,7 @@
 
 如果您在使用过程中如果有什么问题或者需求可以通过[点击此处](https://github.com/YienCheng/vue-cli-plugin-multiple-build/issues)来提一个ISSUE。
 
-如果觉的这个插件还可以，欢迎各位大佬能给个Star [![Github](https://img.shields.io/github/stars/YienCheng/vue-cli-plugin-multiple-build.svg?style=social&label=Stars)](https://github.com/YienCheng/vue-cli-plugin-multiple-build)，感谢～ 
+如果觉的这个插件还可以，欢迎各位大佬能给点个星星[![Github](https://img.shields.io/github/stars/YienCheng/vue-cli-plugin-multiple-build.svg?style=social&label=Stars)](https://github.com/YienCheng/vue-cli-plugin-multiple-build)，感谢～ 
 
 ## Getting Started
 
